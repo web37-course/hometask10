@@ -1,0 +1,14 @@
+
+.profile-photo {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.more-info-details > .info {
+    text-align: justify;
+}
+
+.more-info-values > div {
+    width: calc(100%/3.1);
+}
